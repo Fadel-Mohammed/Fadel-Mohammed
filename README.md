@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Fadel Mohammed 👋
 
-<!--
-**Fadel-Mohammed/Fadel-Mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems (MIS) Graduate
 
-Here are some ideas to get you started:
+I'm interested in ERP systems, procurement, inventory management, and data analysis. I enjoy learning how business systems improve operational efficiency and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+**ERP & Business Systems**
+- Odoo 20 Enterprise
+- Procurement & Purchasing
+- Inventory Management
+- Warehouse Operations
+- Lot Tracking & FEFO
+
+**Data Analysis & Reporting**
+- Microsoft Excel
+- SQL
+- Power BI
+
+## 🚀 Featured Project
+
+### Fadel Food Trading – Odoo ERP
+
+A hands-on Odoo ERP project simulating the operations of a food trading company.
+
+**Project Areas:**
+- Procurement & Purchase Management
+- Warehouse Operations
+- Inventory Control
+- Product Traceability
+- Expiration Date Management
+- FEFO (First Expiry, First Out)
+
+🔗 [View Project on GitHub](https://github.com/Fadel-Mohammed/fadel-food-trading-odoo-erp)
+
+## 🎯 Career Interests
+
+Interested in entry-level opportunities in:
+- Procurement & Purchasing
+- Inventory Control
+- Supply Chain Operations
+- ERP Operations & Data Entry
+
+📍 Jeddah, Saudi Arabia
